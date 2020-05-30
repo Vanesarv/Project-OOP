@@ -1,0 +1,129 @@
+﻿  Date.cpp
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.cpp(3,12): error C2039: 'copy': is not a member of 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.h(6): message : see declaration of 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.cpp(7,12): error C2039: 'clean': is not a member of 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.h(6): message : see declaration of 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.cpp(79,1): error C2600: 'Date::Date': cannot define a compiler-generated special member function (must be declared in the class first)
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.cpp(84,1): error C2600: 'Date::operator =': cannot define a compiler-generated special member function (must be declared in the class first)
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.cpp(111,1): error C2511: 'void Date::print(void)': overloaded member function not found in 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Date.h(6): message : see declaration of 'Date'
+  Functions.cpp
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.h(46,45): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(30,17): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(41,14): error C2065: 'i': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(41,21): error C2065: 'i': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(41,25): error C2065: 'products_size': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(41,40): error C2065: 'i': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(43,46): error C2065: 'i': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(54,25): error C2065: 'f_section': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(56,25): error C2065: 'f_shelf': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(58,25): error C2065: 'f_number': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(62,17): error C2065: 'f_section': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(62,58): error C2065: 'f_shelf': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(62,95): error C2065: 'f_number': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(64,1): error C2039: 'is_location_empty': is not a member of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(6): message : see declaration of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(66,21): error C2065: 'added_location': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(66,51): error C2065: 'f_section': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(66,62): error C2065: 'f_shelf': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(66,71): error C2065: 'f_number': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(67,1): error C2039: 'is_location_empty': is not a member of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(6): message : see declaration of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(87,13): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(104,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(105,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(106,1): error C2440: 'initializing': cannot convert from 'Date *' to 'Date'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(106,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(108,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(109,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(109,16): error C2065: 'day_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(110,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(111,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(111,16): error C2065: 'month_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(112,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(113,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(113,16): error C2065: 'year_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(114,37): error C2065: 'day_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(114,52): error C2065: 'month_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(114,69): error C2065: 'year_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(116,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(117,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(119,9): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(120,9): error C2065: 'cin': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(122,29): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(124,40): error C2065: 'Products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(124,17): error C3861: 'is_equal': identifier not found
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(126,53): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(126,22): error C3861: 'is_equal': identifier not found
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(128,21): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(128,87): error C2065: 'endl': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(131,38): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(133,21): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(133,90): error C2065: 'endl': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(136,21): error C2065: 'day_of_expiry': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(136,38): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(138,57): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(138): error C2668: 'Location::Location': ambiguous call to overloaded function
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(22,5): message : could be 'Location::Location(int,int,int,double)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(20,5): message : or       'Location::Location(void)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(138,1): message : while trying to match the argument list '()'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(139,1): error C2039: 'maximal_quantity': is not a member of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(6): message : see declaration of 'Location'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(140,36): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(142,150): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(142,1): error C2661: 'Product::Product': no overloaded function takes 7 arguments
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(143,41): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(145,29): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(145,63): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(149,29): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(149,38): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(150,29): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(155,25): error C3861: 'allow_user_to_set_location': identifier not found
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(158,29): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(161,39): error C2065: 'added_location': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(162,25): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(162,34): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(163,25): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(165,25): error C2065: 'added_loaction': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(165,1): error C2512: 'Location': no appropriate default constructor available
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(165,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(165,42): error C2064: term does not evaluate to a function taking 0 arguments
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(171,9): error C3861: 'allow_user_to_set_location': identifier not found
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(174,13): error C2065: 'cout': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(176,134): error C2065: 'added_location': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(177,9): error C2065: 'products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(177,18): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(178,9): error C2065: 'number_of_products': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(180,9): error C2065: 'added_loaction': undeclared identifier
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(180,1): error C2512: 'Location': no appropriate default constructor available
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(180,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Functions.h(180,26): error C2064: term does not evaluate to a function taking 0 arguments
+  Location.cpp
+  Main.cpp
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.h(46,45): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+  Product.cpp
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.h(46,45): warning C4244: 'return': conversion from 'const double' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(6): error C2668: 'Location::Location': ambiguous call to overloaded function
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(22,5): message : could be 'Location::Location(int,int,int,double)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(20,5): message : or       'Location::Location(void)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(6,1): message : while trying to match the argument list '()'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(15): error C2668: 'Location::Location': ambiguous call to overloaded function
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(22,5): message : could be 'Location::Location(int,int,int,double)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(20,5): message : or       'Location::Location(void)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(15,2): message : while trying to match the argument list '()'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(16,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(17,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(18,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(24): error C2668: 'Location::Location': ambiguous call to overloaded function
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(22,5): message : could be 'Location::Location(int,int,int,double)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Location.h(20,5): message : or       'Location::Location(void)'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(24,1): message : while trying to match the argument list '()'
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(49,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(50,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(51,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(75,6): warning C4551: function call missing argument list
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(75,6): error C3867: 'Date::f_isValidDate': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(88,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(95,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\WarehouseProject\WarehouseProject\Product.cpp(128,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
